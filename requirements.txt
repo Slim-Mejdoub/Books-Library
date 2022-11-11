@@ -1,0 +1,4 @@
+flask_sqlalchemy
+Flask~=2.2.2
+wtforms
+flask_wtf
